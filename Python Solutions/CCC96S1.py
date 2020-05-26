@@ -1,3 +1,6 @@
+#Deficient, Perfect, and Abundant
+#Found at https://www.cemc.uwaterloo.ca/contests/computing/1996/stage1/a-prob.html
+
 n=input()
 for i in range(n):
     a=input()
