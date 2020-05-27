@@ -1,1 +1,1 @@
-These are a sample of the C++ solutions to the more difficult questions I've solved.
+These are a sample of my C++ solutions to coding questions, selected from the more difficult questions I've solved.
