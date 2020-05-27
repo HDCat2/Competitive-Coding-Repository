@@ -1,4 +1,3 @@
-//Problem Name: Timpanist
 //Problem description found at https://wcipeg.com/problem/ccc15s2p5
 
 #include <bits/stdc++.h>
